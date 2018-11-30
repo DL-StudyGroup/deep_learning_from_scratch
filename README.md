@@ -9,7 +9,7 @@
 > 계획: Orantation, Chap01 발표
 
 - Meet Up - 스터디 소개, 일정 정리, 장소 정리
-- 발표 Chap.01  - *@Alfred*
+- 발표 Chap.01  - *@super-marrimo*
 
 ##### 2주차: (18-12-08)
 > 계획: Chap.02 발표
