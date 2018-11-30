@@ -3,6 +3,7 @@
 	* 교재: < Deep Learning from scratch >
 	* 멤버: Alfred, Song, Jiafei 
 ##일정:
+
 ##### 1주차:  (18-12-01)
 > 계획: Orantation, Chap01 발표
 
@@ -13,3 +14,5 @@
 > 계획: Chap.02 발표
 
 ##참고자료:
+
+교과서: <밑바닥 부터 딥러닝> [[Chinese Ver.](/files/book_from_scratch_.pdf)]
