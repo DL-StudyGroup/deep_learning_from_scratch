@@ -9,11 +9,15 @@
 > 계획: Orantation, Chap01 발표
 
 - Meet Up - 스터디 소개, 일정 정리, 장소 정리
-- 발표 Chap.01  - *@super-marrimo*
+- 발표 Chap.01  - *@Alfred.D*
 
 ##### 2주차: (18-12-08)
 > 계획: Chap.02 발표
 
 ## 참고자료:
 
-교과서: <밑바닥 부터 딥러닝> [[Chinese Ver.](/files/book_from_scratch_.pdf)]
+교과서: <밑바닥 부터 딥러닝> [[Ch Ver.](/files/book_from_scratch_.pdf)]
+
+일본공식 Github (oreilly-japan): [oreilly-japan/deep-learning-from-scratch](https://github.com/oreilly-japan/deep-learning-from-scratch)
+
+한국공식 Github (한빛미디어): [WegraLee/deep-learning-from-scratch](https://github.com/WegraLee/deep-learning-from-scratch)
