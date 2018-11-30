@@ -2,6 +2,7 @@
 	* 스터디 시작일자: 2018-12-01
 	* 교재: < Deep Learning from scratch >
 	* 멤버: Alfred, Song, Jiafei 
+	
 ##일정:
 
 ##### 1주차:  (18-12-01)
