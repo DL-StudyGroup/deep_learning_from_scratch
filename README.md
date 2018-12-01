@@ -12,7 +12,9 @@
 - 발표 Chap.01  - *@Alfred.D*
 
 ##### 2주차: (18-12-08)
-> 계획: Chap.02 발표
+> 계획: Chap.02 발표 <퍼셉트론> - *@CK.D.Lee*
+
+- 장소: 봉천역 
 
 ## 참고자료:
 
@@ -21,3 +23,4 @@
 일본공식 Github (oreilly-japan): [oreilly-japan/deep-learning-from-scratch](https://github.com/oreilly-japan/deep-learning-from-scratch)
 
 한국공식 Github (한빛미디어): [WegraLee/deep-learning-from-scratch](https://github.com/WegraLee/deep-learning-from-scratch)
+
