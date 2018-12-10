@@ -1,7 +1,7 @@
 # deep learning from scratch
 	* 스터디 시작일자: 2018-12-01
 	* 교재: < Deep Learning from scratch >
-	* 멤버: Alfred, Song, Jiafei 
+	* 멤버: Alfred.D, Song, CK.D.Lee 
 	
 ## 일정:
 
@@ -11,11 +11,15 @@
 - Meet Up - 스터디 소개, 일정 정리, 장소 정리
 - 발표 Chap.01  - *@Alfred.D*
 - 자료: [DeepLearning_Week01_Alfred.pptx](/presentation/DeepLearning_Week01_Alfred.pptx)
+- 참석자: CK.D.Lee, Alfred.D, Song
 
 ##### 2주차: (18-12-08)
 > 계획: Chap.02 발표 <퍼셉트론> - *@CK.D.Lee*
+> 장소: 봉천역 
 
-- 장소: 봉천역 
+- 발표 Chap.02 - **Perceptron** *@CK.D.Lee*
+- 장소: CK.D.Lee's Home
+- 참석자: CK.D.Lee, Alfred.D
 
 ## 참고자료:
 
@@ -24,4 +28,6 @@
 일본공식 Github (oreilly-japan): [oreilly-japan/deep-learning-from-scratch](https://github.com/oreilly-japan/deep-learning-from-scratch)
 
 한국공식 Github (한빛미디어): [WegraLee/deep-learning-from-scratch](https://github.com/WegraLee/deep-learning-from-scratch)
+
+[개앞맵시] 스카이넷도 딥러닝부터: [https://www.mindmeister.com/ko/812276967/_](https://www.mindmeister.com/ko/812276967/_)
 
