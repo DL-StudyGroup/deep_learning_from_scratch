@@ -1,7 +1,7 @@
 # deep learning from scratch
 	* 스터디 시작일자: 2018-12-01
 	* 교재: < Deep Learning from scratch >
-	* 멤버: Alfred, Song, Jiafei 
+	* 멤버: Alfred.D, Song, CK.D.Lee 
 	
 ## 일정:
 
