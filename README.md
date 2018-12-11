@@ -19,8 +19,8 @@
 
 - 발표 Chap.02 - **Perceptron** *@CK.D.Lee*
 - 장소: CK.D.Lee's Home
-- 참석자: CK.D.Lee, Alfred.D
 - 자료: [Week_02_CK.D.Lee](/presentation/Week_02_CK.D.Lee_Perceptron%20Algorithm.pdf)
+- 참석자: CK.D.Lee, Alfred.D
 
 ## 참고자료:
 
