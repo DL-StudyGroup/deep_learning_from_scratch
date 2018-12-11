@@ -10,7 +10,7 @@
 
 - Meet Up - 스터디 소개, 일정 정리, 장소 정리
 - 발표 Chap.01  - *@Alfred.D*
-- 자료: [DeepLearning_Week01_Alfred.pptx](/presentation/DeepLearning_Week01_Alfred.pptx)
+- 자료: [ [DeepLearning_Week01_Alfred.pptx](/presentation/DeepLearning_Week01_Alfred.pptx) ]
 - 참석자: CK.D.Lee, Alfred.D, Song
 
 ##### 2주차: (18-12-08)
@@ -20,6 +20,7 @@
 - 발표 Chap.02 - **Perceptron** *@CK.D.Lee*
 - 장소: CK.D.Lee's Home
 - 참석자: CK.D.Lee, Alfred.D
+- 자료: [ [Week_02_CK.D.Lee_Perceptron Algorithm.pdf](/presentation/Week_02_CK.D.Lee_Perceptron Algorithm.pdf) ]
 
 ## 참고자료:
 
