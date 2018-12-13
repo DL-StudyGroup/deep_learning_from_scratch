@@ -6,7 +6,7 @@
 ## 일정:
 
 ##### 1주차:  (18-12-01)
-> 계획: Orantation, Chap01 발표
+> - 계획: Orantation, Chap01 발표
 
 - Meet Up - 스터디 소개, 일정 정리, 장소 정리
 - 발표 Chap.01  - *@Alfred.D*
@@ -14,8 +14,8 @@
 - 참석자: CK.D.Lee, Alfred.D, Song
 
 ##### 2주차: (18-12-08)
-> 계획: Chap.02 발표 <퍼셉트론> - *@CK.D.Lee*
-> 장소: 봉천역 
+> - 계획: Chap.02 발표 <퍼셉트론> - *@CK.D.Lee*
+> - 장소: 봉천역 
 
 - 발표 Chap.02 - **Perceptron** *@CK.D.Lee*
 - 장소: CK.D.Lee's Home
@@ -23,8 +23,10 @@
 - 참석자: CK.D.Lee, Alfred.D
 
 ##### 3주차: (18-12-15)
-> 계획: Chap.03 part.01 <신경망> - *@Alfred.D*
-> 장소: 봉천 Song's House
+> - 계획: Chap.03 part.01 <신경망> - *@Alfred.D*
+> - 장소: 봉천 Song's House
+
+
 
 ## 참고자료:
 
