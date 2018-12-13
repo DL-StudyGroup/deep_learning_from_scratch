@@ -22,6 +22,10 @@
 - 자료: [Week_02_CK.D.Lee](/presentation/Week_02_CK.D.Lee_Perceptron%20Algorithm.pdf)
 - 참석자: CK.D.Lee, Alfred.D
 
+##### 3주차: (18-12-15)
+> 계획: Chap.03 part.01 <신경망> - *@Alfred.D*
+> 장소: 봉천 Song's House
+
 ## 참고자료:
 
 교과서: <밑바닥 부터 딥러닝> [[Ch Ver.](/files/book_from_scratch_.pdf)]
