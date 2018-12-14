@@ -25,6 +25,7 @@
 ##### 3주차: (18-12-15)
 > - 계획: Chap.03 part.01 <신경망> - *@Alfred.D*
 > - 장소: 봉천 Song's House
+> - 사전 준비내용: [12월15일 준비물](/boards/12-15_homework.md)
 
 
 
