@@ -27,6 +27,8 @@
 > - 장소: 봉천 Song's House
 > - 사전 준비내용: [12월15일 준비물](/boards/12-15_homework.md)
 
+- 발표 Chap.03 - 신경망 part.01
+- 자료: [Week03_Alfred_neural_network](/presentations/Week03_Alfred_neural_network.pptx)
 
 
 ## 참고자료:
