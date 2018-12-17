@@ -5,7 +5,7 @@
 	
 ## 일정:
 
-##### 1주차:  (18-12-01)
+#### 1주차:  (18-12-01)
 > - 계획: Orantation, Chap01 발표
 
 - Meet Up - 스터디 소개, 일정 정리, 장소 정리
@@ -13,7 +13,7 @@
 - 자료: [DeepLearning_Week01_Alfred.pptx](/presentation/DeepLearning_Week01_Alfred.pptx)
 - 참석자: CK.D.Lee, Alfred.D, Song
 
-##### 2주차: (18-12-08)
+#### 2주차: (18-12-08)
 > - 계획: Chap.02 발표 <퍼셉트론> - *@CK.D.Lee*
 > - 장소: 봉천역 
 
@@ -22,13 +22,18 @@
 - 자료: [Week_02_CK.D.Lee](/presentation/Week_02_CK.D.Lee_Perceptron%20Algorithm.pdf)
 - 참석자: CK.D.Lee, Alfred.D
 
-##### 3주차: (18-12-15)
+#### 3주차: (18-12-15)
 > - 계획: Chap.03 part.01 <신경망> - *@Alfred.D*
 > - 장소: 봉천 Song's House
 > - 사전 준비내용: [12월15일 준비물](/boards/12-15_homework.md)
 
 - 발표 Chap.03 - 신경망 part.01
 - 자료: [Week03_Alfred_neural_network](/presentations/Week03_Alfred_neural_network.pptx)
+- 참석자: CK.D.Lee, Alfred.D, Song
+
+#### 4주차: (18-12-22)
+> - Chap.03 part.02 <신경망> - *@Song*
+> - 장소: (대기)
 
 
 ## 참고자료:
