@@ -29,6 +29,11 @@
 
 - 발표 Chap.03 - 신경망 part.01
 - 자료: [Week03_Alfred_neural_network](/presentations/Week03_Alfred_neural_network.pptx)
+- 참석자: CK.D.Lee, Alfred.D, Song
+
+##### 4주차: (18-12-22)
+> - Chap.03 part.02 <신경망> - *@Song*
+> - 장소: (대기)
 
 
 ## 참고자료:
