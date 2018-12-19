@@ -33,7 +33,7 @@
 
 #### 4주차: (18-12-22)
 > - Chap.03 part.02 <신경망> - *@Song*
-> - 장소: (대기)
+> - 장소: [https://spacecloud.kr/space/3936](https://spacecloud.kr/space/3936) (10:00~12:00 4인실, 대여자이름: 최강) 
 
 
 ## 참고자료:
