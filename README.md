@@ -35,6 +35,13 @@
 > - Chap.03 part.02 <신경망> - *@Song*
 > - 장소: [https://spacecloud.kr/space/3936](https://spacecloud.kr/space/3936) (10:00~12:00 4인실, 대여자이름: 최강) 
 
+- 발표 Chap.03 - part.02 MNIST
+- 자료: [Week04_songxue77.pptx](/presentations/Week04_songxue77.pptx)
+- 참석자: CK.D.Lee, Alfred.D, Song
+
+#### 5주자: (18-12-29)
+> - Chap.04 part.01 - *@CK.D.Lee*
+> - 장소: CK.D.Lee's Home
 
 ## 참고자료:
 
