@@ -39,9 +39,23 @@
 - 자료: [Week04_songxue77.pptx](/presentations/Week04_songxue77.pptx)
 - 참석자: CK.D.Lee, Alfred.D, Song
 
-#### 5주자: (18-12-29)
+#### 5주차: (18-12-29)
 > - Chap.04 part.01 - *@CK.D.Lee*
 > - 장소: CK.D.Lee's Home
+
+- 발표 Chap.04 
+- 자료: [Week05_CK.D.Lee_Ch04.Training Neural Networks.pdf](/presentations/Week05_CK.D.Lee_Ch04_Training_Neural_Networks)
+- 참석자: CK.D>Lee, Alfred.D, Song
+
+---
+#### `2주휴무 (19-01-5, 19-01-12)`
+---
+
+#### 6주차: (19-01-19)
+> - Chap.04 Code Review
+> - 장소: CK.D.Lee's Home
+
+
 
 ## 참고자료:
 
