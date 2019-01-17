@@ -2,6 +2,7 @@ import sys
 import os
 import numpy as np
 from PIL import Image
+
 sys.path.append(os.pardir)
 from dataset.mnist import load_mnist
 
