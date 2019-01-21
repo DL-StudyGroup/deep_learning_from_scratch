@@ -55,6 +55,9 @@
 > - Chap.04 Code Review
 > - 장소: CK.D.Lee's Home
 
+- 내용: Chap.04 Code Review
+- 참석자: CK.D.Lee, Alfred.D
+
 
 
 ## 참고자료:
