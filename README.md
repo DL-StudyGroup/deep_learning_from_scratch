@@ -45,7 +45,7 @@
 
 - 발표 Chap.04 
 - 자료: [Week05_CK.D.Lee_Ch04.Training Neural Networks.pdf](/presentations/Week05_CK.D.Lee_Ch04_Training_Neural_Networks)
-- 참석자: CK.D>Lee, Alfred.D, Song
+- 참석자: CK.D.Lee, Alfred.D, Song
 
 ---
 #### `2주휴무 (19-01-5, 19-01-12)`
@@ -57,6 +57,11 @@
 
 - 내용: Chap.04 Code Review
 - 참석자: CK.D.Lee, Alfred.D
+
+#### 7주차: (19-01-26)
+> - Chap.05 역전파
+> - 장소: CK.D.Lee's Home
+> - 팔표자: Alfred.D
 
 
 
