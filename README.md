@@ -4,6 +4,9 @@
 	* 멤버: Alfred.D, Song, CK.D.Lee 
 	
 ## 일정:
+|a|b|
+---
+|a|b|
 
 #### 1주차:  (18-12-01)
 > - 계획: Orantation, Chap01 발표
@@ -62,6 +65,16 @@
 > - Chap.05 역전파
 > - 장소: CK.D.Lee's Home
 > - 팔표자: Alfred.D
+
+- 내용: Chap.05 오차역전파법
+	- 5.1 - 5.6 진행
+	- 5.7 구현내용은 다음 스터디에
+- 장소: [스터디룸 MORAK](https://spacecloud.kr/space/15621?b=b)
+- 참석자: CK.D.Lee, Alfred.D, Song
+
+---
+#### `2주 구정휴식 (19-02-02, 19-02-09)`
+---
 
 
 
