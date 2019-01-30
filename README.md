@@ -90,3 +90,8 @@
 
 [개앞맵시] 스카이넷도 딥러닝부터: [https://www.mindmeister.com/ko/812276967/_](https://www.mindmeister.com/ko/812276967/_)
 
+## 기타: 
+#### Daum Equation Editor:
+
+수식 입력시 사용. [Go!](http://s1.daumcdn.net/editor/fp/service_nc/pencil/Pencil_chromestore.html)
+
