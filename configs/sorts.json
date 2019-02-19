@@ -1,0 +1,29 @@
+{
+    "": [
+        "readme.md", 
+        "boards", 
+        "common", 
+        "dataset", 
+        "demos", 
+        "files", 
+        "presentation"
+    ], 
+    "__positions": {
+        "files": 6, 
+        "boards": 2, 
+        "dataset": 4, 
+        "demos": 5, 
+        "common": 3, 
+        "presentation": 7, 
+        "readme.md": 1
+    }, 
+    "__raw_positions": {
+        "files": 6, 
+        "boards": 2, 
+        "dataset": 4, 
+        "demos": 5, 
+        "common": 3, 
+        "presentation": 7, 
+        "readme.md": 1
+    }
+}
