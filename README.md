@@ -89,9 +89,15 @@
 	- Chap.06 3~
 - 장소: CK.D.Lee's Home
 - 발표자: CK.D.Lee
-- 발표자료: [
+- 발표자료: [Week10_CK.D.Lee_Ch06_Training_related_skills.pdf](https://github.com/DL-StudyGroup/deep_learning_from_scratch/blob/master/presentation/Week10_CK.D.Lee_Ch06_Training_related_skills.pdf)
 - 참석자: CK.D.Lee, Alfred.D, Song
 
+### 11주차: (19-03-09)
+> - **시간변동: 9:00 - 11:00**
+> - 장소: 미정
+> - 내용: Chap07 CNN
+> - 발표자: Alfred.D
+ 
 
 ## 참고자료:
 
